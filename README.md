@@ -1,1 +1,1 @@
-# check-version-control
+# check-version-control for tests
